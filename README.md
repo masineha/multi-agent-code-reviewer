@@ -41,32 +41,37 @@ This project demonstrates how multiple specialized AI agents can collaborate:
 ```bash
 git clone https://github.com/masineha/multi-agent-code-reviewer.git
 cd multi-agent-code-reviewer/
+```
 
 2️⃣ Create & activate a virtual environment
-
+```bash
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
+```
 
 3️⃣ Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 4️⃣ Add your API key
 
 Create a .env file in the project root with:
-
+```bash
 GROQ_API_KEY=your_api_key_here
+```
 
 5️⃣ Run the reviewer
 
 Put your Python files inside a folder named sample_code/
 Then run:
-
+```bash
 python main.py
+```
 
 A formatted review will be generated in:
-
+```bash
 code_review_report.md
-
+```
 
