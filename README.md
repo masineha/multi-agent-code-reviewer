@@ -1,5 +1,8 @@
 # 🤖 Multi-Agent Code Reviewer
 
+> I built this project to deepen my understanding of **AI agents**, **LangGraph**, and **multi-agent collaboration** using LLMs.  
+> It’s a personal learning project that demonstrates how agents can work together for code review automation.
+
 An AI-powered **multi-agent Python code review system** built using **LangGraph**, **LangChain**, and **Groq LLMs**.  
 It automatically reads, reviews, and summarizes Python files for **style**, **logic**, and **readability** issues — then generates a **comprehensive markdown report**.
 
