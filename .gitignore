@@ -1,0 +1,10 @@
+# Environment and system files
+.env
+multi_agent_venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Output files
+code_review_report.md
+reports/
