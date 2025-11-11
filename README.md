@@ -37,7 +37,7 @@ This project demonstrates how multiple specialized AI agents can collaborate:
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repo
+1️⃣ Clone the repo
 ```bash
 git clone https://github.com/masineha/multi-agent-code-reviewer.git
 cd multi-agent-code-reviewer/
